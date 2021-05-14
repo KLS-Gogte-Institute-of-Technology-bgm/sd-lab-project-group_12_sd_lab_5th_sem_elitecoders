@@ -1,0 +1,9 @@
+This Library Management System can be used to maintain records of user details like registering books, checking balance penalty amount etc. 
+This system not only works from admin side but also from user side. User can also check his/her own details and get the notification for balance
+amount of penalty, books returning date, can also check available books. This application also works by SMS. Users can directly send SMS to a
+particular phone no. with some predefined text and value. And he/she will get reply via SMS. He will be getting all kind of information via SMS,
+if someone wants the information only through SMS then the application is not required to be installed. In this application there are three modules
+namely, Admin, User and SMS User. Admin can register user details and provide him/her a login id and password, can also manage user search and renew 
+activities, he/she can add books as well and can view the due dates and penalty amount. Users get login id and password, he/she can view his personal 
+details, check for desire books and get update of due dates, issue date of books and penalty amount to be paid. Through SMS user can send text message
+on dedicated number and he/she can get information about books, penalty, due date, issue date etc. alert via SMS.
